@@ -23,5 +23,5 @@ else if(randomNo === randomNo2){
 else{
     document.querySelector("h1").innerText = "Player 2 Wins!"
 }
-
+setInterval(location.reload(),3000)
 
